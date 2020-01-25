@@ -1,4 +1,4 @@
-# SMMBBGKJ-TTH-Prj1
+# Grate Lakes-Project-1
 
 6.1 PROJECT REQUIREMENTS
 • Two to three plots (and think about getting information visualized onto fewer plots). NO PIE CHARTS
